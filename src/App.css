@@ -40,3 +40,18 @@
 .read-the-docs {
   color: #888;
 }
+
+h1 {
+  color: yellow;
+}
+
+tr {
+  cursor: pointer;
+  transition: background-color 0.3s;
+  background-color: darkgray;
+  color: darkmagenta;
+}
+
+tr:hover {
+  background-color: green;
+}
